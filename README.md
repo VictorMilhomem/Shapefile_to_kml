@@ -36,10 +36,6 @@ Replace `<path_to_shapefile>` with the path to the input shapefile you want to c
 - `--shapefile`: Path to the input shapefile (required).
 - `--kmlfile`: Path to the output KML file (optional). If not provided, the script will save the output KML file as `output.kml` in the current directory.
 
-## Example
-
-To convert a shapefile named `input.shp` to a KML file named `output.kml` using the command line, run the following command:
-
 ### Option 2: Using a Notebook
 
 1. Use [Google Colab](https://colab.research.google.com/).
