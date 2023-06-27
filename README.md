@@ -42,7 +42,7 @@ To convert a shapefile named `input.shp` to a KML file named `output.kml` using 
 
 ### Option 2: Using a Notebook
 
-1. Use (Google Colab)[https://colab.research.google.com/]
+1. Use [Google Colab](https://colab.research.google.com/).
 
 2. Open the `Convert_Shapefile_to_Kml.ipynb` notebook file in Colab.
 
